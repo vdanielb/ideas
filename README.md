@@ -7,3 +7,5 @@ Project ideas:
 - LLM review generator based on variables like genre, actor, year. (DeepSeek API? NGram? some other word generator language model?
 - Use TF-IDF on the reviews to get n words/tags that describe the movie
 
+# Personal Website
+Maybe I should just use a jekyll or any other pregenerated theme
