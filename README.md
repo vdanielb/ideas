@@ -19,4 +19,4 @@ Build a database to manage products, customers, orders, and payments for an onli
 # Startup Ideas
 ## Apartments.com for Indonesia
 ## Sports court booking software for Indonesia
-## 
+## Digitize how retailers buy produce from Indonesian farmers
