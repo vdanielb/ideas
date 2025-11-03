@@ -1,4 +1,4 @@
-# Project-Ideas
+# Project Ideas
 A list of cool projects I might want to work on in the future
 
 ## Letterboxd review
@@ -9,6 +9,7 @@ Project ideas:
 - Use TF-IDF on the reviews to get n words/tags that describe the movie
 
 ## Personal Website
+Rewrite using modern web stack (React+NextJS)
 
 ## Database design: Online Retail Application, Bank. 
 Build a database to manage products, customers, orders, and payments for an online store. Design modules for product listings, shopping carts, and checkout functions. Maybe explore user accounts and secure transactions using appropriate security measures?
