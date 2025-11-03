@@ -14,3 +14,8 @@ Project ideas:
 Build a database to manage products, customers, orders, and payments for an online store. Design modules for product listings, shopping carts, and checkout functions. Maybe explore user accounts and secure transactions using appropriate security measures?
 
 ## Browser-based video game
+
+# Startup Ideas
+## Apartments.com for Indonesia
+## Sports court booking software for Indonesia
+## 
