@@ -19,7 +19,7 @@ Build a database to manage products, customers, orders, and payments for an onli
 # Startup Ideas
 ## Essay AI Checker
 - Problem: cheating is rampant with AI. Especially writing essays.
-- You know how google docs has a function where you can see writing history?
+- Solution: You know how google docs has a function where you can see writing history?
 - Professors/teachers assign essays on our own platform. The platform is just a simple document editor but it tracks writing history, typing patterns, etc. and tells professors if it was written by AI or not.
   - Better than using AI checkers like GPTZero cuz some students writing styles could be similar to AI
   - "Couldn't students still ask ChatGPT to write it for them and then just copy-type it one by one?" Sure but it will detect if you're pausing and revising and stuff like a human. It'd require so much more effort to cheat the system that at that point just write the essay yourself bro.
