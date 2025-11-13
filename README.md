@@ -29,5 +29,7 @@ Build a database to manage products, customers, orders, and payments for an onli
 - Udah ada mamikos
 ## RateMyProfessor for Indonesia
 - Apparently doesnt exist yet at all
+- Could scale to making reddit for Indo unis
+- And then scale to reddit for all Indo
 ## Sports court booking software for Indonesia
 ## Digitize how retailers buy produce from Indonesian farmers
