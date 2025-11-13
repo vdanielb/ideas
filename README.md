@@ -31,5 +31,7 @@ Build a database to manage products, customers, orders, and payments for an onli
 - Apparently doesnt exist yet at all
 - Could scale to making reddit for Indo unis
 - And then scale to reddit for all Indo
-## Sports court booking software for Indonesia
+## Sports court booking software
+- Could be B2B (we provide the software for court owners) or B2C like Shopee for court booking (owners list on our site, customers book through our site)
 ## Digitize how retailers buy produce from Indonesian farmers
+- Vague idea. Idk how this industry works at all.
