@@ -24,14 +24,17 @@ Build a database to manage products, customers, orders, and payments for an onli
   - Better than using AI checkers like GPTZero cuz some students writing styles could be similar to AI
   - "Couldn't students still ask ChatGPT to write it for them and then just copy-type it one by one?" Sure but it will detect if you're pausing and revising and stuff like a human. It'd require so much more effort to cheat the system that at that point just write the essay yourself bro.
   - Don't wanna trust our ML model? That's fine. You can see the writing history yourself as a video. To reduce overhead cost, only record when students are typing
-
+## Sports court booking software
+- Could be B2B (we provide the software for court owners) or B2C like Ebay for court booking (owners list on our site, customers book through our site)
 ## Apartments.com for Indonesia
 - Udah ada mamikos
 ## RateMyProfessor for Indonesia
 - Apparently doesnt exist yet at all
 - Could scale to making reddit for Indo unis
 - And then scale to reddit for all Indo
-## Sports court booking software
-- Could be B2B (we provide the software for court owners) or B2C like Shopee for court booking (owners list on our site, customers book through our site)
 ## Digitize how retailers buy produce from Indonesian farmers
 - Vague idea. Idk how this industry works at all.
+  
+## Any other B2B
+- Think about an industry that can be made more efficient with technology. If in Indo, Indo prolly has lots.
+- Build the technology.
