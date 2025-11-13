@@ -26,5 +26,8 @@ Build a database to manage products, customers, orders, and payments for an onli
   - Don't wanna trust our ML model? That's fine. You can see the writing history yourself as a video. To reduce overhead cost, only record when students are typing
 
 ## Apartments.com for Indonesia
+- Udah ada mamikos
+## RateMyProfessor for Indonesia
+- Apparently doesnt exist yet at all
 ## Sports court booking software for Indonesia
 ## Digitize how retailers buy produce from Indonesian farmers
