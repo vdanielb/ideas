@@ -17,6 +17,9 @@ Build a database to manage products, customers, orders, and payments for an onli
 ## Browser-based video game
 
 # Startup Ideas
+## Myworkday for Indo
+- Problem: applying to jobs in Indo sucks. Some of them have custom forms (which have bad performance), some you have to email, some don't even post online.
+- Solution: myworkday but for Indo. Myworkday sucks too but at least it's standardized and the performance is good.
 ## Essay AI Checker
 - Problem: cheating is rampant with AI. Especially writing essays.
 - Solution: You know how google docs has a function where you can see writing history?
