@@ -17,6 +17,10 @@ Build a database to manage products, customers, orders, and payments for an onli
 ## Browser-based video game
 
 # Startup Ideas
+## Fine-tuned AI Tutor (ChatGPT sucks)
+- A personal, digital tutor for every individual student (https://www.youtube.com/watch?v=7vsCAM17O-M)
+- Problem: AI tutors are a cool idea. But rn ChatGPT kinda sucks at teaching. When you ask it a question, it assumes some pre-requisite knowledge, chunks its explanations to sub-sections, over-summarizes. But true learning (like from a teacher) usually involves building foundational understanding. It requires clear chain of thought (instead of sub-sections), and in-depth explanations (no summarizing).
+- Solution: an LLM specially trained to give those in-depth lectures to you. 
 ## Myworkday for Indo
 - Problem: applying to jobs in Indo sucks. Some of them have custom forms (which have bad performance), some you have to email, some don't even post online.
 - Solution: myworkday but for Indo. Myworkday sucks too but at least it's standardized and the performance is good.
