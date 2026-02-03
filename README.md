@@ -21,6 +21,7 @@ Build a database to manage products, customers, orders, and payments for an onli
 - Most AI notetakers are for online meetings (like in Zoom)
 - Opportunity to create a small device that listens and summarizes meetings. Could be an app on your phone
 - Expansion ideas: classroom notetaking, phone calls, IRL conversations, being able to ask specific natural language questions about the meeting and get immediate answers.
+- Nvm already exists https://www.bluedothq.com
 ## Fine-tuned AI Tutor (ChatGPT sucks)
 - A personal, digital tutor for every individual student (https://www.youtube.com/watch?v=7vsCAM17O-M)
 - Problem: AI tutors are a cool idea. But rn ChatGPT kinda sucks at teaching. When you ask it a question, it assumes some pre-requisite knowledge, chunks its explanations to sub-sections, over-summarizes. But true learning (like from a teacher) usually involves building foundational understanding. It requires clear chain of thought (instead of sub-sections), and in-depth explanations (no summarizing).
