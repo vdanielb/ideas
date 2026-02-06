@@ -55,3 +55,4 @@ Build a database to manage products, customers, orders, and payments for an onli
 ## Centralized calendar for club events
 - With enough scale of clubs we build websites for, we could prolly build the first truly centralized system for club events
 - But before we hit that scale, we could make a centralized calendar of club events through web scraping Instagram posts and stories.
+- Nvm already exists https://calendar.ucsd.edu/group/student-life/calendar
