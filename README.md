@@ -1,4 +1,4 @@
-# Project Ideas
+# (Learning) Project Ideas
 A list of cool projects I might want to work on in the future
 
 ## Letterboxd review
@@ -50,3 +50,8 @@ Build a database to manage products, customers, orders, and payments for an onli
 ## Any other B2B
 - Think about an industry that can be made more efficient with technology. If in Indo, Indo prolly has lots.
 - Build the technology.
+
+# Software for Students by Students (for TWD)
+## Centralized calendar for club events
+- With enough scale of clubs we build websites for, we could prolly build the first truly centralized system for club events
+- But before we hit that scale, we could make a centralized calendar of club events through web scraping Instagram posts and stories.
