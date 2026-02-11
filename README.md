@@ -15,6 +15,9 @@ Build a database to manage products, customers, orders, and payments for an onli
 
 ## Browser-based video game
 
+## LLM-based receipt scanner. 
+Sees date, prices, items, can categorize by item. SQLite db of purchase history. Dashboard of purchases
+
 # Startup Ideas
 ## AI In-Person notetaker
 - Most AI notetakers are for online meetings (like in Zoom)
