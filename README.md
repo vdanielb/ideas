@@ -5,12 +5,13 @@ A list of project ideas I might want to work on in the future
 ## Personal Website
 Rewrite using modern web stack (React+NextJS)
 
-## Database design: Online Retail Application, Bank. 
+## Natural Language SQL (AI Engineer)
+Build a system where users can ask questions in natural language and get SQL queries + visualizations. User asks query, agent generates SQL, executes it, returns results + chart.
+
+## Database design: Online Retail Application, Bank (Back-end dev) 
 Build a database to manage products, customers, orders, and payments for an online store. Design modules for product listings, shopping carts, and checkout functions. Maybe explore user accounts and secure transactions using appropriate security measures?
 
-## Browser-based video game
-
-## LLM-based receipt scanner. 
+## LLM-based receipt scanner (full-stack mobile app dev) 
 Sees date, prices, items, can categorize by item. SQLite db of purchase history. Dashboard of purchases
 
 # Startup Ideas
