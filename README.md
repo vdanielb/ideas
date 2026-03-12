@@ -19,6 +19,8 @@ Build a database to manage products, customers, orders, and payments for an onli
 Sees date, prices, items, can categorize by item. SQLite db of purchase history. Dashboard of purchases
 
 # Startup Ideas
+## IoT end-to-end/full-stack analytics for aquaculture
+- I have a friend, Rama, who is a fisheries major in Indonesia. I might be able to ask him for insight into what kind of tech tools the fisheries industry needs and just build it for them.
 ## AI In-Person notetaker
 - Most AI notetakers are for online meetings (like in Zoom)
 - Opportunity to create a small device that listens and summarizes meetings. Could be an app on your phone
