@@ -15,6 +15,7 @@ Sees date, prices, items, can categorize by item. SQLite db of purchase history.
 
 # Startup Ideas
 ## IoT end-to-end/full-stack analytics for aquaculture
+- The top shrimp exporters are India, Vietnam, Thailand, Indonesia, China. Other than China, shrimp farms are probably still quite traditional/primitive with minimal tech adoption. There might be some potential to build a tech startup that sells to these shrimp farms to help make their production more efficient.
 - I have a friend, Rama, who is a fisheries major in Indonesia. I might be able to ask him for insight into what kind of tech tools the fisheries industry needs and just build it for them.
 ## AI In-Person notetaker
 - Most AI notetakers are for online meetings (like in Zoom)
