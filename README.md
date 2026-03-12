@@ -1,11 +1,6 @@
-# (Learning) Project Ideas
-A list of cool projects I might want to work on in the future
+A list of project ideas I might want to work on in the future
 
-## Letterboxd review
-Scrape all the reviews from every movie in Letterboxd (maybe limit it to just a year? Letterboxd has a lot of movies.). NLP task ideas:
-- Movie recommendation based on review similarity (IMDb might be better for this. Letterboxd reviews can be unserious)
-- LLM review generator based on variables like genre, actor, year. (DeepSeek API? NGram? some other word generator language model?)
-- get words/tags that describe the movie
+# (Learning) Project Ideas
 
 ## Personal Website
 Rewrite using modern web stack (React+NextJS)
