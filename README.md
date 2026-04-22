@@ -15,7 +15,12 @@ Build a database to manage products, customers, orders, and payments for an onli
 Sees date, prices, items, can categorize by item. SQLite db of purchase history. Dashboard of purchases.
 
 ## Run an LLM or vision model on the Arduino UNO Q (Edge ML/AI)
-Identify objects using YOLO, make it interactive by building an AI agent, or have the outputs be something with LEDs or speakers or whatever. Maybe play notes based on finger movement like a virtual piano?
+Identify objects using YOLO, make it interactive by building an AI agent, or have the outputs be something with LEDs or speakers or whatever. 
+
+## Air guitar/Air piano/Air any instrument (related to above)
+ML Visual model that recognizes hand movement and gestures. Output sound based on hand movement.
+If deployed on arduino, now you have a portable piano/guitar/anything the size of a power bank.
+If deployed on desktop, visualize the instrument on the webcam and make a rythm game!
 
 # Startup Ideas
 ## No-code website builder and manager. 
