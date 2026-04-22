@@ -14,8 +14,27 @@ Build a database to manage products, customers, orders, and payments for an onli
 ## LLM-based receipt scanner (full-stack mobile app dev) 
 Sees date, prices, items, can categorize by item. SQLite db of purchase history. Dashboard of purchases.
 
+# Hackathon Ideas
+## Agent Swarm statistical simulations
+Prev won SDx hackathon by doing agent swam simulation on news headlines in relation to stock market behavior/reactions. 
+
+## Robot tour guide
+Prev won Datahacks sponsor challenge by building an eco park ranger tour guide.
+
+## Immersive Audio Book Generator
+Accessibility of books for the blind and other disabled. But creating audio books takes $$$, you have to find, hire voice actors and then they need a lot of time to narrate an entire book, often needing multiple takes and stitching together takes.
+And if your book isn’t popular? Forget it. Not enough demand to warrant making an audio book for it.
+Solution: Using https://elevenlabs.io, our tool allows you to:
+- Input a book
+- “Manager” AI agent extracts:Characters and their personalities, Mood of each part of the book, Overall tone of the book for the narrator
+- “Manager” assigns each character a voice that suits their personality, and can even assign music to each part of the book according to the scene’s mood.
+- Automatically generate a fully immersive audio book with the perfect narrator, perfect voices for each character, and even immersive music
+
+## Camera Guide for Blind People:
+A camera that can guide blind people. Reads books out loud for you, read any text, like in a museum. Identify any object. Gives instructions. When you open your fridge, you can say “hey, where’s my celsius?” and hold out your hand in front of the camera, and it will guide your hand towards it. Turn vision -> sound. Integrate with your laptop.
+
 ## Run an LLM or vision model on the Arduino UNO Q (Edge ML/AI)
-Identify objects using YOLO, make it interactive by building an AI agent, or have the outputs be something with LEDs or speakers or whatever. 
+Identify objects using YOLO, make it interactive by building an AI agent, or have the outputs be something with LEDs or speakers or whatever.
 
 ## Air guitar/Air piano/Air any instrument (related to above)
 ML Visual model that recognizes hand movement and gestures. Output sound based on hand movement.
