@@ -12,9 +12,15 @@ Build a system where users can ask questions in natural language and get SQL que
 Build a database to manage products, customers, orders, and payments for an online store. Design modules for product listings, shopping carts, and checkout functions. Maybe explore user accounts and secure transactions using appropriate security measures?
 
 ## LLM-based receipt scanner (full-stack mobile app dev) 
-Sees date, prices, items, can categorize by item. SQLite db of purchase history. Dashboard of purchases
+Sees date, prices, items, can categorize by item. SQLite db of purchase history. Dashboard of purchases.
+
+## Run an LLM or vision model on the Arduino UNO Q (Edge ML/AI)
+Identify objects using YOLO, make it interactive by building an AI agent, or have the outputs be something with LEDs or speakers or whatever. Maybe play notes based on finger movement like a virtual piano?
 
 # Startup Ideas
+## No-code website builder and manager. 
+- Updates using natural language. Plug in any legacy website.
+- Idk of lovable or the hundreds of other no-code apps already do this.
 ## IoT end-to-end/full-stack analytics for aquaculture
 - The top shrimp exporters are India, Vietnam, Thailand, Indonesia, China. Other than China, shrimp farms are probably still quite traditional/primitive with minimal tech adoption. There might be some potential to build a tech startup that sells to these shrimp farms to help make their production more efficient.
 - I have a friend, Rama, who is a fisheries major in Indonesia. I might be able to ask him for insight into what kind of tech tools the fisheries industry needs and just build it for them.
