@@ -42,6 +42,10 @@ If deployed on arduino, now you have a portable piano/guitar/anything the size o
 If deployed on desktop, visualize the instrument on the webcam and make a rythm game!
 
 # Startup Ideas
+## Piazza AI Agent
+- Problem: I work as a tutor and a lot of questions on Piazza can be answered via an AI agent
+- No, not just simple questions that can be answered by reading the syllabus
+- Say one of the questions is vague and a student is asking how to interpret it (happens a lot in programming assignments). An AI agent can see the answer key, see the question, and then give the correct interpretation of the question in Piazza. This is already what I do as a tutor, and I just really want to automate myself out of the loop.
 ## No-code website builder and manager. 
 - Updates using natural language. Plug in any legacy website.
 - Idk of lovable or the hundreds of other no-code apps already do this.
