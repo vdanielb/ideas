@@ -46,12 +46,12 @@ If deployed on desktop, visualize the instrument on the webcam and make a rythm 
 - Problem: I work as a tutor and a lot of questions on Piazza can be answered via an AI agent
 - No, not just simple questions that can be answered by reading the syllabus
 - Say one of the questions is vague and a student is asking how to interpret it (happens a lot in programming assignments). An AI agent can see the answer key, see the question, and then give the correct interpretation of the question in Piazza. This is already what I do as a tutor, and I just really want to automate myself out of the loop.
-## No-code website builder and manager. 
-- Updates using natural language. Plug in any legacy website.
-- Idk of lovable or the hundreds of other no-code apps already do this.
-## IoT end-to-end/full-stack analytics for aquaculture
+## IoT end-to-end/full-stack analytics/ML for aquaculture
 - The top shrimp exporters are India, Vietnam, Thailand, Indonesia, China. Other than China, shrimp farms are probably still quite traditional/primitive with minimal tech adoption. There might be some potential to build a tech startup that sells to these shrimp farms to help make their production more efficient.
 - I have a friend, Rama, who is a fisheries major in Indonesia. I might be able to ask him for insight into what kind of tech tools the fisheries industry needs and just build it for them.
+## Edge ML for Indo Factories
+- ML for fault detection, predict when a machine is about to fail, computer vision for quality control
+- Set up sensors to collect data. Dashboards to visualize. Deploy ML on edge devices.  
 ## AI In-Person notetaker
 - Most AI notetakers are for online meetings (like in Zoom)
 - Opportunity to create a small device that listens and summarizes meetings. Could be an app on your phone
