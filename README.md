@@ -49,7 +49,7 @@ If deployed on desktop, visualize the instrument on the webcam and make a rythm 
 ## IoT end-to-end/full-stack analytics/ML for aquaculture
 - The top shrimp exporters are India, Vietnam, Thailand, Indonesia, China. Other than China, shrimp farms are probably still quite traditional/primitive with minimal tech adoption. There might be some potential to build a tech startup that sells to these shrimp farms to help make their production more efficient.
 - I have a friend, Rama, who is a fisheries major in Indonesia. I might be able to ask him for insight into what kind of tech tools the fisheries industry needs and just build it for them.
-## Edge ML for Indo Factories (Making smart factories)
+## IoT end-to-end/full-stack analytics/ML for Indo Factories (Making smart factories)
 - ML for fault detection, predict when a machine is about to fail, computer vision for quality control, predict demand, detect safety concerns. Deploy ML everywhere on the factory floor
 - Set up sensors to collect data. Dashboards to visualize. Deploy ML on edge devices.  
 ## AI In-Person notetaker
