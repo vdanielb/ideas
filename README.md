@@ -43,8 +43,10 @@ If deployed on desktop, visualize the instrument on the webcam and make a rythm 
 
 # Startup Ideas
 ## LLM-driven human experiments
-Inspired by ideas in traditional agent-based modeling in statistics and wanted to use LLMs to have more dynamic agent-based simulations compared to the rigid rules-based traditional method.
 There is a broader problem in trying to instill human cognitive biases into LLMs. If we can make LLMs think more like humans, with all their biases and diverse personalities and lived experiences, there is massive potential in being able to do social experiments and simulations without the massive cost and effort of getting actual humans in the study. Behavioral economics, industry focus study groups, social experiments, could all theoretically be done cheaper and faster if we could make LLMs actually think and behave like humans.  
+Academic reading:
+- https://en.wikipedia.org/wiki/Agent-based_model
+- https://arxiv.org/pdf/2509.13588
 
 ## Piazza AI Agent
 - Problem: I work as a tutor and a lot of questions on Piazza can be answered via an AI agent
