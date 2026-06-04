@@ -4,14 +4,14 @@ A list of project ideas I might want to work on in the future. I keep finding th
 ## Natural Language SQL
 Build a system where users can ask questions in natural language and get SQL queries + visualizations. User asks query, agent generates SQL, executes it, returns results + chart.
 
-## LLM-based receipt scanner
-Sees date, prices, items, can categorize by item. SQLite db of purchase history. Dashboard of purchases.
+## Personal Wiki (with Obsidian)
+Sync email, whatsapp, social media. Give AI agents maximum context. Inspired by Andrej Karpathy's idea: <https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f>
 
 ## Agent Swarm statistical simulations
 Prev won SDx hackathon by doing agent swam simulation on news headlines in relation to stock market behavior/reactions. Might be fun to explore this further. Also read: <https://arxiv.org/pdf/2509.13588>
 
 ## Robot tour guide
-Prev won hatkathon by building a [park ranger tour guide mini-robot](https://devpost.com/software/roboranger). Might be fun to explore a more advanced version of this that could can self-navigate to give you a flexibly, dynamic, end-to-end tour guide of places. I'd need an EE/MechE to help me tho. 
+Prev won hackathon by building a [park ranger tour guide mini-robot](https://devpost.com/software/roboranger). Might be fun to explore a more advanced version of this that could can self-navigate to give you a flexibly, dynamic, end-to-end tour guide of places. I'd need an EE/MechE to help me tho. 
 
 ## Immersive Audio Book Generator
 Accessibility of books for the blind and other disabled. But creating audio books takes $$$, you have to find, hire voice actors and then they need a lot of time to narrate an entire book, often needing multiple takes and stitching together takes.
@@ -32,6 +32,9 @@ A camera that can guide blind people. Reads books out loud for you, read any tex
 ML Visual model that recognizes hand movement and gestures. Output sound based on hand movement.
 If deployed on arduino, now you have a portable piano/guitar/anything the size of a power bank.
 If deployed on desktop, visualize the instrument on the webcam and make a rythm game!
+
+## LLM-based receipt scanner
+Sees date, prices, items, can categorize by item. SQLite db of purchase history. Dashboard of purchases.
 
 # Startup Ideas
 ## LLM-driven human experiments
