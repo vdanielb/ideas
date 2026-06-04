@@ -22,6 +22,9 @@ Solution: Using https://elevenlabs.io, our tool allows you to:
 - "Manager" assigns each character a voice that suits their personality, and can even assign music to each part of the book according to the scene's mood.
 - Automatically generate a fully immersive audio book with the perfect narrator, perfect voices for each character, and even immersive music
 
+## AutoDub/Sub
+Use Text-to-Speech and Automatic Speech Recognition models to automatically sub and/or dub any anime/movie/TV show. 
+
 ## Camera Guide for Blind People:
 A camera that can guide blind people. Reads books out loud for you, read any text, like in a museum. Identify any object. Gives instructions. When you open your fridge, you can say “hey, where’s my celsius?” and hold out your hand in front of the camera, and it will guide your hand towards it. Turn vision -> sound. Integrate with your laptop.
 
