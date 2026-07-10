@@ -1,11 +1,16 @@
 A list of project ideas I might want to work on in the future. I keep finding that the ideas I have have either already been built 10 years ago or are currently being built by the thousands of AI startups around the world. As such, maybe half of these ideas are outdated, but I like keeping them around anyway. Consider it an exercise in [noticing ideas/opportunities](https://www.paulgraham.com/startupideas.html).
 
 # Small Project Ideas
+I define "small" projects as projects for personal use. Consumer use, if you will.
+
 ## Natural Language SQL
 Build a system where users can ask questions in natural language and get SQL queries + visualizations. User asks query, agent generates SQL, executes it, returns results + chart.
 
-## Personal Wiki (with Obsidian)
+## Karpathy's Personal Wiki (with Obsidian)
 Sync email, whatsapp, social media. Give AI agents maximum context. Inspired by Andrej Karpathy's idea: <https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f>
+
+## Karpathy's LLM Wiki applied to professional history, applied to a unified job applier platform 
+I could probably build a pretty solid resume builder + job form auto-filler + interview helper with this. The problem with most of them is that they can really only automatically fill out universal generic questions (What's your name?) and fail with specific individual questions (Tell me about a time you did x.). But theoretically, you build a massive context graph like this, an LLM should be able to tailor your response to your actual experiences
 
 ## Agent Swarm statistical simulations
 Prev won SDx hackathon by doing agent swam simulation on news headlines in relation to stock market behavior/reactions. Might be fun to explore this further. Also read: <https://arxiv.org/pdf/2509.13588>
@@ -36,7 +41,10 @@ If deployed on desktop, visualize the instrument on the webcam and make a rythm 
 ## LLM-based receipt scanner
 Sees date, prices, items, can categorize by item. SQLite db of purchase history. Dashboard of purchases.
 
+
 # Startup Ideas
+I define startup ideas as stuff that could would be sold to big businesses. B2B, if you will. 
+
 ## LLM-driven human experiments
 There is a broader problem in trying to instill human cognitive biases into LLMs. If we can make LLMs think more like humans, with all their biases and diverse personalities and lived experiences, there is massive potential in being able to do social experiments and simulations without the massive cost and effort of getting actual humans in the study. Behavioral economics, industry focus study groups, social experiments, could all theoretically be done cheaper and faster if we could make LLMs actually think and behave like humans.  
 More ambitious: imagine if we can make an AI version of everyone (maybe by fine-tuning over all their data?). Recommender systems basically try to model user preferences. But if I have an accurate AI copy of a user right in front of me, I could do my recsys experiments on them directly, making a scarily powerful recommender system. Though honestly, it's probably more realistic to just train some neural network to predict user clicks than using it to model the user's whole life experience and biases.  
