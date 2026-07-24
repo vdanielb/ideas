@@ -1,7 +1,17 @@
 A list of project ideas I might want to work on in the future. I keep finding that the ideas I have have either already been built 10 years ago or are currently being built by the thousands of AI startups around the world. As such, maybe half of these ideas are outdated, but I like keeping them around anyway. Consider it an exercise in [noticing ideas/opportunities](https://www.paulgraham.com/startupideas.html).
 
 # Small Project Ideas
-I define "small" projects as projects for personal use. Consumer use, if you will.
+I define "small" projects as projects for personal or consumer use (can be deployed as a mobile app or one-time-use website)
+
+## Lovable for photo editing
+AI photo editor by applying filters, not by generating images.
+Problem: AI generated images are noisy and have a certain shine/look to them. Bad for when you just want to edit your photo, not generate one.
+Problem 2: people can describe what kind of "vibe" they want their photo to be like. They don't necessarily have the digital media know-how to turn that into what filters to apply or what knobs to adjust. Kind of like how before AI, non-technicals can have app ideas but not know how to code. So lovable for photo editing. 
+Has someone made an AI photo editor that doesn't change the photo by generating a new one but by applying very custom filters?
+"Make my photo look dreamy, nostalgic, film grain, 2010 digital camera"
+<thinking> ok I should apply x filter and adjust y colors and do z </thinking>
+"Here you go. Any adjustments?"
+
 
 ## Natural Language SQL
 Build a system where users can ask questions in natural language and get SQL queries + visualizations. User asks query, agent generates SQL, executes it, returns results + chart.
