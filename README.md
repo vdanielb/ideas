@@ -4,7 +4,7 @@ A list of project ideas I might want to work on in the future. I keep finding th
 I define "small" projects as projects for personal or consumer use (can be deployed as a mobile app or one-time-use website)
 
 ## Lovable for photo editing
-Domain name ideas: pixable.com, laightroom.com, pictureforge.com, pictureprompt, photoprompt, photoprompter, picprompter
+Domain name ideas: pixlpal.com
 AI photo editor by applying filters, not by generating images.  
 Problem: AI generated images are noisy and have a certain shine/look to them. Bad for when you just want to edit your photo, not generate one.  
 Problem 2: people can describe what kind of "vibe" they want their photo to be like. They don't necessarily have the digital media know-how to turn that into what filters to apply or what knobs to adjust. Kind of like how before AI, non-technicals can have app ideas but not know how to code. So lovable for photo editing.   
@@ -13,14 +13,16 @@ Has someone made an AI photo editor that doesn't change the photo by generating 
 <thinking> ok I should apply x filter and adjust y colors and do z </thinking>  
 "Here you go. Any adjustments?"  
 
+## LLM RL code that generates (tasteful) art
+Inspired by https://surya.website/rling-qwen-to-paint-with-code, RL an open weights model to paint using JavaScript. 
 
-## Natural Language SQL
-Build a system where users can ask questions in natural language and get SQL queries + visualizations. User asks query, agent generates SQL, executes it, returns results + chart.
+### RL lofi hiphop generator
+RL an open-source model to use https://tidalcycles.org to write code that makes music (that I like). LoFi would probably be easy. 
 
 ## Karpathy's Personal Wiki (with Obsidian)
 Sync email, whatsapp, social media. Give AI agents maximum context. Inspired by Andrej Karpathy's idea: <https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f>
 
-## Karpathy's LLM Wiki applied to professional history, applied to a unified job applier platform
+### Karpathy's LLM Wiki applied to professional history, applied to a unified job applier platform
 Domain name ideas: mycareerwiki.com <https://domains.cloudflare.com/?domain=mycareerwiki.com>.  
 I could probably build a pretty solid resume builder + job form auto-filler + interview helper with this. The problem with most of them is that they can really only automatically fill out universal generic questions (What's your name?) and fail with specific individual questions (Tell me about a time you did x.). But theoretically, you build a massive context graph like this, an LLM should be able to tailor your response to your actual experiences
 
