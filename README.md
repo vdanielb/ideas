@@ -52,12 +52,11 @@ ML Visual model that recognizes hand movement and gestures. Output sound based o
 If deployed on arduino, now you have a portable piano/guitar/anything the size of a power bank.
 If deployed on desktop, visualize the instrument on the webcam and make a rythm game!
 
-## LLM-based receipt scanner
-Sees date, prices, items, can categorize by item. SQLite db of purchase history. Dashboard of purchases.
+## Data auto-categorizer
+Use OpenAI Decisions/Jev to make a web app that automatically categorizes a list or column into a user-defined group. Input output csv, json, dictionary, etc. 
 
-
-# Startup Ideas
-I define startup ideas as stuff that could would be sold to big businesses. B2B, if you will. 
+# Bigger Ideas
+I define bigger ideas as stuff that could be a startup.
 
 ## LLM-driven human experiments
 There is a broader problem in trying to instill human cognitive biases into LLMs. If we can make LLMs think more like humans, with all their biases and diverse personalities and lived experiences, there is massive potential in being able to do social experiments and simulations without the massive cost and effort of getting actual humans in the study. Behavioral economics, industry focus study groups, social experiments, could all theoretically be done cheaper and faster if we could make LLMs actually think and behave like humans.  
