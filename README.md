@@ -4,17 +4,7 @@ A list of project ideas I might want to work on in the future. I keep finding th
 I define "small" projects as projects for personal or consumer use (can be deployed as a mobile app or one-time-use website)
 
 ## Personal Cooking App
-I've been using ChatGPT to give me cooking recipes and I'm wondering the most effective way for me to keep using it like this without me having to send an ingredient list every time. Ideally I'd like an app that just has an inventory of ingredients I have available
-and every day I just ask it
-"hey what should I cook?"
-"hey, what should I buy"
-
-Smart fridges should be able to do that in like 3 years. But well, I could either just keep a txt file that I paste to Chat every time...or start a server whose whole purpose is to serve AI a list of ingredients I have in my fridge. And then use cook.vdanielb.com to edit my txt file from anywhere I want. And really I could just make it a full-stack app for myself
-- list favorite cuisines
-- save favorite recipes
-- recommend me new dishes based on that
-- query grocery store websites every week to find deals and prepare a shopping list for me, personalized for the type of dishes I like 
-
+See https://github.com/vdanielb/CookWithClaude
 
 ## Lovable for photo editing
 Domain name ideas: pixlpal.com
